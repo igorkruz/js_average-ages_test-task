@@ -1,4 +1,4 @@
-# Average ages
+# Average ages:
 
 **Read the guideline before start**
 
